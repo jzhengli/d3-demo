@@ -78,7 +78,7 @@ window.onload = function(){
             maxPop
         ]);
     
-    /**** scales ****/
+    /**** axis ****/
     //create y axis generator
     var yAxis = d3.axisLeft()
         .scale(y);
